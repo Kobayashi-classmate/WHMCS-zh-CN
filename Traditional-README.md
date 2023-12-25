@@ -1,5 +1,5 @@
 # WHMCS前後臺中文語言包/Simplified Chinese Translations
-WHMCS主機業務管理系統前後臺簡體中文漢化 [【点我切换到简体中文版说明】](https://github.com/Rodots/WHMCS-zh-CN)
+WHMCS主機業務管理系統前後臺簡體中文漢化 [【点我切换到简体中文版说明】](https://github.com/Kobayashi-classmate/WHMCS-zh-CN)
 
 ##### @by Rodots 傲世 WHMCS 8.7.x WHMCS-zh-CN
 
